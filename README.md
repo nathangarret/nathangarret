@@ -1,6 +1,6 @@
 ### Hiii! Sou o Nathan Garrett 
 
-- 💻 Atualmente cursando 2°Módulo de Desenvolvimento de Sistemas!!!
+- 💻 Formado em Desenvolvimento de Sistemas!!!
 - 📂 Estudo linguagens tais como front-end e back-end.
 - 📝 Contate-me no email: contatonatgarrett@gmail.com
 - 🤓 Começando no GitHub.
